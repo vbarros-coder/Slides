@@ -1,0 +1,10 @@
+{
+  "name": "SOMP Deck",
+  "framework": "nextjs",
+  "buildCommand": "pnpm build",
+  "devCommand": "pnpm dev",
+  "installCommand": "pnpm install",
+  "env": {
+    "NEXT_PUBLIC_APP_NAME": "SOMP Deck — Síndrome dos Ovários Policísticos"
+  }
+}
